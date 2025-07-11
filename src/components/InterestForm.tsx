@@ -233,7 +233,7 @@ const InterestForm: React.FC = () => {
 
           {/* Footer */}
           <div className="mt-10 text-center text-sm text-white/80">
-            Powered by Spiel Design
+            Powered by Spidr Design
           </div>
         </div>
       </main>
