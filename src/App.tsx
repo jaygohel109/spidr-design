@@ -1,9 +1,13 @@
 import InterestForm from './components/InterestForm'
-// import Particles from 'react-particles-js'
+import ParticleBackground from './components/ParticleBackground'
 
 function App() {
   return (
-    <InterestForm />
+    <div className="min-h-screen bg-black relative">
+      <ParticleBackground />
+      <InterestForm />
+    </div>
+
   )
 }
 
