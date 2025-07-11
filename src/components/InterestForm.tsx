@@ -80,7 +80,7 @@ const InterestForm: React.FC = () => {
       </aside>
 
       {/* Main Content - Updated to match the About us style */}
-      <main className="flex-1 flex items-center justify-center p-8" style={{ backgroundColor:'rgba(0, 0, 0, 0.8)' }}>
+      <main className="flex-1 flex items-center justify-center p-8" style={{ backgroundColor:'rgba(0, 0, 0, 0.89)' }}>
         <div className="w-full max-w-2xl shadow-md p-8" style={{ backgroundColor: 'rgba(71, 157, 175, 0.9)' }}>
           {/* Header */}
           <div className="mb-8">
